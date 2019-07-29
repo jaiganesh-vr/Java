@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542608</millis>
+  <sequence>0</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Date</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542618</millis>
+  <sequence>1</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>04/04/2019 18:22:22</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542631</millis>
+  <sequence>2</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Request</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542631</millis>
+  <sequence>3</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Borrowing Books</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542633</millis>
+  <sequence>4</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Request ID</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542634</millis>
+  <sequence>5</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>MCGU1234</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542634</millis>
+  <sequence>6</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Request Item</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542635</millis>
+  <sequence>7</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>MON9876</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542636</millis>
+  <sequence>8</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Server Response</message>
+</record>
+<record>
+  <date>2019-04-04T18:22:22</date>
+  <millis>1554416542637</millis>
+  <sequence>9</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>false</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753226</millis>
+  <sequence>10</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>Date</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753230</millis>
+  <sequence>11</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>04/04/2019 18:25:53</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753233</millis>
+  <sequence>12</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>Request</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753234</millis>
+  <sequence>13</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>Returning Books</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753234</millis>
+  <sequence>14</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>Request ID</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753236</millis>
+  <sequence>15</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>CONU1234</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753237</millis>
+  <sequence>16</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>Request Item</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753238</millis>
+  <sequence>17</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>MON9876</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753238</millis>
+  <sequence>18</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>Server Response</message>
+</record>
+<record>
+  <date>2019-04-04T18:25:53</date>
+  <millis>1554416753239</millis>
+  <sequence>19</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>11</thread>
+  <message>true</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831962</millis>
+  <sequence>20</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Date</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831964</millis>
+  <sequence>21</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>04/04/2019 18:27:11</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831975</millis>
+  <sequence>22</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Request</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831976</millis>
+  <sequence>23</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Returning Books</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831978</millis>
+  <sequence>24</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Request ID</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831979</millis>
+  <sequence>25</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>MCGU1234</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831980</millis>
+  <sequence>26</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Request Item</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831981</millis>
+  <sequence>27</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>MON9877</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831982</millis>
+  <sequence>28</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>Server Response</message>
+</record>
+<record>
+  <date>2019-04-04T18:27:11</date>
+  <millis>1554416831983</millis>
+  <sequence>29</sequence>
+  <logger>ReplicaManagerThree.DLMS_McGhill_Implementation</logger>
+  <level>INFO</level>
+  <class>ReplicaManagerThree.DLMS_McGhill_Implementation</class>
+  <method>serverlog</method>
+  <thread>12</thread>
+  <message>false</message>
+</record>
