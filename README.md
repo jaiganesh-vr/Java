@@ -1,5 +1,5 @@
 # Java
-This repository contains project based java programming language
+This repository contains project based on java programming language
 
 ### Project_1 Library Management
 
